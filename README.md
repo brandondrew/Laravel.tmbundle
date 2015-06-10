@@ -10,6 +10,7 @@
 
 ## Installing
 
+	mkdir -p ~/Library/Application\ Support/TextMate/Bundles/
 	cd ~/Library/Application\ Support/Avian/Bundles/
 	git clone https://github.com/loranger/Laravel.tmbundle.git
 	
